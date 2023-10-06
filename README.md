@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankanikam12&label=Profile%20views&color=0e75b6&style=flat" alt="priyankanikam12" /> </p>
 
-- 🌱 I’m currently learning **Java,C#,HTML,CSS etc.**
+- 🌱 Languages **Java,C#,HTML,CSS,.NET etc.**
 
 - 📫 How to reach me **priyankanikam101s@gmail.com**
 
